@@ -1,2 +1,2 @@
 # kellygracethornton.github.io
-Web Design
+Front End Developer
